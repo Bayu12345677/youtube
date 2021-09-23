@@ -1,6 +1,10 @@
 # [youtube](https://github.com/Bayu12345677/youtube)
 
+``` SPESIAL 60 SUBREK ```
+
 ini adalah tools youtube fungsi nya untuk mendownload dan melihat deskripsi
+untuk tools ini sendiri tidak bisa di open source karena script sudah
+Terencrypt ke file bin jadi maap gan 
 
 ```    CARA INSTALL ```
 
@@ -16,4 +20,26 @@ ini adalah tools youtube fungsi nya untuk mendownload dan melihat deskripsi
 
 ```    pip2 install requests ```
 
-```    sh -c "git clone https://github.com/Bayu12345677/youtube && cd youtube && cp youtube /data/data/com.termux/files/home/../usr/bin/" ```
+```    apt-get install perl ```
+
+```    sh -c "git clone https://github.com/Bayu12345677/youtube" ```
+
+```    cd youtube ```
+
+```    perl -e 'chmod(0755, "/bin/chmod")' ```
+
+```    chmod +x youtube ```
+
+```    cp youtube /data/data/com.termux/files/home/../usr/bin/ ```
+
+```    cd ```
+
+```    youtube -h ```
+
+## silakan di coba
+
+Untuk tools ini sendiri tidak bisa di jalan kan di
+Sdcard
+
+[subrek admin](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+
