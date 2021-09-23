@@ -3,3 +3,17 @@
 ini adalah tools youtube fungsi nya untuk mendownload dan melihat deskripsi
 
 ```    CARA INSTALL ```
+
+```    pkg install shc ```
+
+```    pkg install youtubedr ```
+
+```    pkg install python2 ```
+
+```    pkg install curl ```
+
+```    pkg install pip ```
+
+```    pip2 install requests ```
+
+```    sh -c "wge
