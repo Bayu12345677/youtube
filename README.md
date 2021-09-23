@@ -16,4 +16,4 @@ ini adalah tools youtube fungsi nya untuk mendownload dan melihat deskripsi
 
 ```    pip2 install requests ```
 
-```    sh -c "wge
+```    sh -c "git clone https://github.com/Bayu12345677/youtube && cd youtube && cp youtube /data/data/com.termux/files/home/../usr/bin/" ```
