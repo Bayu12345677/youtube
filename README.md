@@ -38,6 +38,8 @@ Terencrypt ke file bin jadi maap gan
 
 ## silakan di coba
 
+Agar tidak eror jng di copas kalo bisa jalankan 1 1
+
 Untuk tools ini sendiri tidak bisa di jalan kan di
 Sdcard
 
