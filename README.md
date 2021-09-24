@@ -43,5 +43,8 @@ Agar tidak eror jng di copas kalo bisa jalankan 1 1
 Untuk tools ini sendiri tidak bisa di jalan kan di
 Sdcard
 
+Saran sesuikan penyimpanan terminal anda
+
+
 [subrek admin](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
