@@ -22,6 +22,10 @@ Terencrypt ke file bin jadi maap gan
 
 ```    apt-get install perl ```
 
+```    apt-get install gem ```
+
+```    gem install lolcat ```
+
 ```    sh -c "git clone https://github.com/Bayu12345677/youtube" ```
 
 ```    cd youtube ```
