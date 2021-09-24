@@ -32,7 +32,15 @@ Terencrypt ke file bin jadi maap gan
 
 ```    perl -e 'chmod(0755, "/bin/chmod")' ```
 
+```    cp youtube /data/data/com.termux/files/home ```
+
+```    cd ```
+
 ```    chmod +x youtube ```
+
+```    ketik ls ```
+
+```    tunggu warna nya sampe ijo ```
 
 ```    cp youtube /data/data/com.termux/files/home/../usr/bin/ ```
 
